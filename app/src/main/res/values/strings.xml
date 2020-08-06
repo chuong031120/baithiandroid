@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application new</string>
+    <string name="textView1">TextView</string>
+    <string name="button1">Button</string>
+    <string name="editText">Name</string>
+    <string name="textView">TextView</string>
+    <string name="button2">Button</string>
+    <string name="editText2">Name</string>
+</resources>
